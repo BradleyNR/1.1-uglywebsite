@@ -1,0 +1,35 @@
+html{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg);
+  background-size: cover;
+}
+
+
+body{
+  color:#FFFFFF;
+}
+
+h1, h2{
+  text-align: center;
+}
+
+.nav-links{
+  width: 800px;
+  margin: 0 auto;
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.nav-link{
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+  border: 2px solid #FFF;
+}
+
+.nav-link a {
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+  font-size: 30px;
+}
